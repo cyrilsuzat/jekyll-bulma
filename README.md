@@ -16,6 +16,14 @@ bundle exec jekyll serve
 
 5 - Browse to http://localhost:4000
 
+## Docs
+
+- The main structure of the page is in `_layouts/defaults.html`
+- The loading of CSS and Bulma framework are in `css/main.sass`
+- Bulma's configuration is done through `_sass/_variables.sass`
+- The main HTML file is `index.html`
+- Have fun!
+
 ## Demo
 
 https://cyrilsuzat.com/jekyll-bulma
