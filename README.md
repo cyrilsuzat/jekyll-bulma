@@ -18,7 +18,7 @@ bundle exec jekyll serve
 
 ## Docs
 
-- The main structure of the page is in `_layouts/defaults.html`
+- The main structure of the page is in `_layouts/default.html`
 - The loading of CSS and Bulma framework are in `css/main.sass`
 - Bulma's configuration is done through `_sass/_variables.sass`
 - The main HTML file is `index.html`
